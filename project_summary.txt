@@ -1,0 +1,2 @@
+Secure File-Sharing Web Application
+A robust cloud-based file management system featuring end-to-end encryption. Built on a Python/Flask backend and an HTML/CSS/JS frontend, the application enables secure file uploads, downloads, encrypted storage, and robust user authentication. It integrates seamlessly with AWS S3 for scalable object storage and utilizes an SQLite database for reliable user management and access control.
